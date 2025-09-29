@@ -3,7 +3,7 @@
  * Stage 1: Indexing - 
  * 1. Load the document - pdf, text - completed
  * 2. Chunk the document - completed
- * 3. Generate vector embeddings 
+ * 3. Generate vector embeddings - completed
 
  *
  * Stage 2: Using the chatbot
