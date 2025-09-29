@@ -7,9 +7,9 @@
 
  *
  * Stage 2: Using the chatbot
- * 1. Setup LLM 
- * 2. Add retrieval step
- * 3. Pass input + relevant information to LLM
+ * 1. Setup LLM  - completed
+ * 2. Add retrieval step - completed
+ * 3. Pass input + relevant information to LLM - completed
 
  */
 
